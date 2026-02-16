@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "1",
+    "title": "Hackathon 2026",
+    "description": "24-hour coding competition",
+    "eventDate": "2026-03-10T10:00:00",
+    "venue": "Auditorium Hall",
+    "registrationLimit": 100,
+    "currentRegistrations": 65,
+    "status": "approved",
+    "category": "technical",
+    "imageUrl": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg"
+  },
+  {
+    "_id": "2",
+    "title": "Cultural Fest",
+    "description": "Dance, music and drama performances",
+    "eventDate": "2026-03-20T18:00:00",
+    "venue": "Main Stage",
+    "registrationLimit": 300,
+    "currentRegistrations": 210,
+    "status": "approved",
+    "category": "cultural"
+  },
+  {
+    "_id": "3",
+    "title": "Football Tournament",
+    "description": "Inter-college football championship",
+    "eventDate": "2026-04-05T09:00:00",
+    "venue": "Sports Ground",
+    "registrationLimit": 50,
+    "currentRegistrations": 48,
+    "status": "approved",
+    "category": "sports"
+  }
+]
